@@ -1,11 +1,6 @@
 ## Installation
 
-1. Make sure [Python 3.7+](https://www.python.org/downloads/) is installed. 
-2. Git Clone
-```
-$ git clone https://github.com/Carlos-Zen/blockchain.git
-$ cd blockchain
-```
+Make sure [Python 3.7+](https://www.python.org/downloads/) is installed. 
 
 ## Usage
 
